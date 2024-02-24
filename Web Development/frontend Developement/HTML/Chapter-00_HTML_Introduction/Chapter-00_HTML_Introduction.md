@@ -1,8 +1,5 @@
 # Chapter - 00
 ## HTML Introduction
 
-### What is HTML
+In the HTML Introduction we will describe what is html and what is use of HTML in frontend development.
 
-- HTML stands for HyperText Markup Language
-- HTML is a markup language it is used to create web structure of a web page
-- 
