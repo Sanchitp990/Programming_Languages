@@ -1,5 +1,27 @@
-# Chapter - 00
-## HTML Introduction
+# Chapter - 00 | HTML Introduction
 
-In the HTML Introduction we will describe what is html and what is use of HTML in frontend development.
 
+## What is HTML 
+
+- HTML stands for HyperText Markup Language.
+- The first version of HTML was written by Tim Berners-Lee in 1993. 
+- HTML used to create web pages structure.
+
+## Basic Structure of HTML
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+```
