@@ -3,5 +3,5 @@
 
 ## HTML Introduction
 
-HTML stands for **_HyperText Markup Language_** it is used to create basic web structure.
+HTML stands for **_HyperText Markup Language_** it is used to create basic web structure in a web page.
 
