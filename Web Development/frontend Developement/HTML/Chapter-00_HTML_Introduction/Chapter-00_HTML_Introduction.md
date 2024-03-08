@@ -7,7 +7,6 @@ The purpose of this tutorial is to introduce you the concept of HTML such as :
 - HTML Introduction
   - What is HTML
   - HTML Syntax
-  - 
 - History of HTML
   - Who created HTML
 
@@ -36,8 +35,10 @@ The HTML syntax are given below :
 </body>
 </html>
 ```
-### Explaination of above html code
+### Explanation of above html code
 
+- `<!DOCTYPE html>` 
+- 
 ## History of HTML
 
  
