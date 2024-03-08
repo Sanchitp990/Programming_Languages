@@ -27,7 +27,7 @@ The HTML syntax are given below :
 <html>
 
 <head>
-    <title>Document</title>
+    <title>Chapter - 00 | HTML Introduction</title>
 </head>
 
 <body>
@@ -45,7 +45,7 @@ The HTML syntax are given below :
 
 - `<head>` : This is the opening tag of the head section of the HTML document. The head section contains meta-information about the HTML document, such as its title, links to external stylesheets or scripts, and metadata.
 
-- `<title>Document</title>` : This is a title element. It defines the title of the HTML document, which appears in the browser's title bar or tab. In this case, the title is set to "Document".
+- `<title>Chapter - 00 | HTML Introduction</title>` : This is a title element. It defines the title of the HTML document, which appears in the browser's title bar or tab. In this case, the title is set to "Chapter - 00 | HTML Introduction".
 
 - `</head>` : This is the closing tag of the head section. It marks the end of the head section.
 
