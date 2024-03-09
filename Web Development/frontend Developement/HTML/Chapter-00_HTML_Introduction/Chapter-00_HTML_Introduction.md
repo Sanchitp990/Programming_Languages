@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this tutorial is to introduce you the concept of HTML such as :
+The purpose of this html introduction is to introduce you the concept of HTML such as :
 
 - HTML Introduction
   - What is HTML
