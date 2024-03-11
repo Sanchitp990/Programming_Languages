@@ -24,7 +24,7 @@ website.
 
 After installing vs code you need to install python extension in vs code to install that fallow this steps in the image :
 
-![How to install python extension in vs code](</Web Development/Backend Development/Python/GitHub using Images/Python extension for Visual Studio Code.png>)
+![How to install python extension in vs code](</GitHub using Images/Python extension for Visual Studio Code.png>)
 
 ### First Python Program
 
