@@ -7,6 +7,8 @@ The purpose of this html introduction is to introduce you the concept of HTML su
 - HTML Introduction
   - What is HTML
   - HTML Syntax
+    - Explanation of above html code
+    - 
 - History of HTML
   - Who created HTML
   - Which version of HTML we are using in 2024
@@ -42,21 +44,25 @@ The HTML syntax are given below :
 
 ### Explanation of above html code
 
-- `<!DOCTYPE html>` : This is the document type declaration. It tells the browser that this is an HTML document.
-  
-- `<html lang="en">` : This is the opening tag for the HTML document and `lang="en"` specifies the language of the document as English.
+- `<!DOCTYPE html>` : This line declares the document type and version of HTML being used, in this case, HTML5.
 
-- `<head>` : This is the opening tag of the head section of the HTML document. The head section contains meta-information about the HTML document, such as its title, links to external stylesheets or scripts, and metadata.
+- `<html lang="en">` : This line marks the beginning of the HTML document. The <html> tag defines the root element of the HTML document, and lang="en" specifies that the language used in the document is English.
 
-- `<title>Chapter - 00 | HTML Introduction</title>` : This is a title element. It defines the title of the HTML document, which appears in the browser's title bar or tab. In this case, the title is set to "Chapter - 00 | HTML Introduction".
+- `<head>` : The `<head>` tag contains meta-information about the HTML document, such as the title, character set, and viewport settings. It doesn't display any content directly on the webpage.
 
-- `</head>` : This is the closing tag of the head section. It marks the end of the head section.
+- `<meta charset="UTF-8">` : This line specifies the character encoding for the document, in this case, UTF-8, which supports a wide range of characters from various languages.
 
-- `<body>` : This is the opening tag of the body section of the HTML document. The body section contains the main content of the HTML document, such as text, images, links, and other elements.
+- `<meta name="viewport" content="width=device-width, initial-scale=1.0">` : This line sets the viewport properties for responsive web design. It ensures that the width of the viewport is equal to the device width, and the initial zoom level is set to 1.0.
 
-- `</body>` : This is the closing tag of the body section. It marks the end of the body section.
+- `<title>Chapter - 00 | HTML Introduction</title>` : This line sets the title of the HTML document, which appears in the browser's title bar or tab. In this case, it's "Chapter - 00 | HTML Introduction".
 
-- `</html>` : This is the closing tag of the HTML document. It marks the end of the HTML document.
+- `</head>` : This line marks the end of the `<head>` section.
+
+- `<body>` : The `<body>` tag defines the main content of the HTML document. All visible content that appears on the webpage is placed within the `<body>` tags.
+
+- `</body>` : This line marks the end of the `<body>` section.
+
+- `</html>` : This line marks the end of the HTML document. All HTML code must be placed between the opening `<html>` and closing `</html>` tags.
 
 ## History of HTML
 ### Who created HTML
