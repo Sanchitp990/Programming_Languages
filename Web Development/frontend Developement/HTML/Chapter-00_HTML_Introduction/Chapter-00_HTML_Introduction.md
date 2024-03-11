@@ -9,6 +9,7 @@ The purpose of this html introduction is to introduce you the concept of HTML su
   - HTML Syntax
 - History of HTML
   - Who created HTML
+  - Which version of HTML we are using in 2024
 
 ## HTML Introduction
 ### What is HTML
@@ -24,9 +25,11 @@ The HTML syntax are given below :
 
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chapter - 00 | HTML Introduction</title>
 </head>
 
@@ -39,9 +42,9 @@ The HTML syntax are given below :
 
 ### Explanation of above html code
 
-- `<!DOCTYPE html>` : This is a document type declaration (DOCTYPE). It informs the browser that the document is an HTML5 document. It is not an HTML tag; rather, it is an instruction to the web browser about what version of HTML the document is written in.
+- `<!DOCTYPE html>` : This is the document type declaration. It tells the browser that this is an HTML document.
   
-- `<html>` : This tag represents the root element of the HTML document. It wraps all the content of the HTML document.
+- `<html lang="en">` : This is the opening tag for the HTML document and `lang="en"` specifies the language of the document as English.
 
 - `<head>` : This is the opening tag of the head section of the HTML document. The head section contains meta-information about the HTML document, such as its title, links to external stylesheets or scripts, and metadata.
 
@@ -56,5 +59,7 @@ The HTML syntax are given below :
 - `</html>` : This is the closing tag of the HTML document. It marks the end of the HTML document.
 
 ## History of HTML
+### Who created HTML
 
- 
+
+### Which version of HTML we are using in 2024
