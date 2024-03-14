@@ -7,8 +7,6 @@ The purpose of this html introduction is to introduce you the concept of HTML su
 - HTML Introduction
   - What is HTML
   - HTML Syntax
-    - Explanation of above html code
-    - 
 - History of HTML
   - Who created HTML
   - Which version of HTML we are using in 2024
