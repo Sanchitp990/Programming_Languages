@@ -1,10 +1,13 @@
-# Chapter - 01
+# Chapter - 01 | Get Started
 
-## Get Started with python
+## Overview
 
-In this get started with python we will install python software in our computer system.
+In this tutorial, you will learn how to install python in your computer system. In this we will cover this topic :
+- Python Installation
+- Code Editor Installation
+- First Python Program 
 
-### Python Installation
+## Python Installation
 
 Many PCs and Macs will have python already installed.
 
@@ -16,7 +19,7 @@ python --version
 
 If you find that you do not have python installed on your computer, then you can download it for free by visiting [python.org](https://www.python.org/downloads/) website.
 
-### Code Editor Installation
+## Code Editor Installation
 
 After installing python you need to install a code editor. There are many different code editor which you can choose but in this tutorial we will use Visual Studio Code it is a free code editor and owned by microsoft to install vs code or Visual 
 Studio Code visit [code.visualstudio.com](https://code.visualstudio.com/download)
@@ -26,7 +29,7 @@ After installing vs code you need to install python extension in vs code to inst
 
 ![How to install python extension in vs code](</GitHub using Images/Python extension for Visual Studio Code.png>)
 
-### First Python Program
+## First Python Program
 
 After installing all the things you can write your first python program.
 
