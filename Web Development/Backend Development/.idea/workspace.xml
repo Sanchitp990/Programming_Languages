@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eba48de4-6abd-4455-b3e0-e2954acbe1da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter-00_Introduction/Chapter-00_Introduction.kt" beforeDir="false" />
+    <list default="true" id="a0a7505b-3c6f-4921-92f4-81b7a7c92b69" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Kotlin/Chapter-00_Introduction/Chapter-00_Introduction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin/Non/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/Non/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +14,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Kotlin/Chapter-00_Introduction/Chapter-00_Introduction.kt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2diXHJf6GcvJdwzLOU985EzYiZd" />
+  <component name="ProjectId" id="2diXPP6iEgftp3fDJa7hZmFw1Hv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,8 +40,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/Programming/Programming_Languages/Web Development/Backend Development",
-    "onboarding.tips.debug.path": "F:/Programming/Programming_Languages/Web Development/Backend Development/Kotlin/Non/src/Main.kt"
+    "last_opened_file_path": "F:/Programming/Programming_Languages/Web Development/Backend Development"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -45,11 +53,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eba48de4-6abd-4455-b3e0-e2954acbe1da" name="Changes" comment="" />
-      <created>1710491787884</created>
+      <changelist id="a0a7505b-3c6f-4921-92f4-81b7a7c92b69" name="Changes" comment="" />
+      <created>1710491847223</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710491787884</updated>
+      <updated>1710491847223</updated>
     </task>
     <servers />
   </component>
