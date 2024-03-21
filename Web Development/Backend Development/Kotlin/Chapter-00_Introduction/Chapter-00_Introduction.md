@@ -2,4 +2,14 @@
 
 ## Overview
 
-In this kotlin tutorials we will cover basic to advanced level concepts.
+The purpose of this kotlin introduction is to introduce you the concept of kotlin such as :
+
+- Introduction
+  - What is kotlin
+  - Uses of kotlin
+- History of kotlin
+
+
+## Introduction
+### What is kotlin
+
