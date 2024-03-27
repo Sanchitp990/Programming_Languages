@@ -65,5 +65,6 @@ The HTML syntax are given below :
 ## History of HTML
 ### Who created HTML
 
+HTML (Hypertext Markup Language) was created by Sir _**Tim Berners-Lee**_. He is a British computer scientist who invented the World Wide Web while working at _CERN (the European Organization for Nuclear Research)_ in 1989. HTML was initially proposed by Berners-Lee in 1990, and the first version, HTML 1.0, was released in 1993. Berners-Lee's vision was to create a system for sharing and accessing information over the Internet, which led to the development of HTML as the standard markup language for creating web pages.
 
 ### Which version of HTML we are using in 2024
