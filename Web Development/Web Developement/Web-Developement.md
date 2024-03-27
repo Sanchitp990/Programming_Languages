@@ -30,11 +30,11 @@ In simple terms, the frontend of a website is like the face or the interface tha
 
 To get started with frontend development, you'll want to learn the following technologies:
 
-1. HTML (Hypertext Markup Language): This is the standard language used to create the structure and content of web pages.
+1. **HTML (Hypertext Markup Language) :** This is the standard language used to create the structure and content of web pages.
 
-2. CSS (Cascading Style Sheets): CSS is used to style the HTML elements, defining how they look on the page in terms of layout, color, typography, etc.
+2. **CSS (Cascading Style Sheets) :** CSS is used to style the HTML elements, defining how they look on the page in terms of layout, color, typography, etc.
 
-3. JavaScript: JavaScript is a programming language that allows you to add interactivity and dynamic behavior to your web pages. It's essential for creating things like animations, form validation, and responding to user actions.
+3. **JavaScript :** JavaScript is a programming language that allows you to add interactivity and dynamic behavior to your web pages. It's essential for creating things like animations, form validation, and responding to user actions.
 
 
 ## Backend Development
@@ -49,7 +49,7 @@ Backend typically includes the server, databases, and application logic. It hand
 
 To become a backend developer, you'll need to learn certain technologies. Here are some common ones:
 
-1. **Programming Languages:** You'll need to know at least one backend programming language. Popular choices include:
+1. **Programming Languages :** You'll need to know at least one backend programming language. Popular choices include:
 - Python: Known for its simplicity and versatility.
   
 - JavaScript (Node.js): Allows you to use JavaScript on both the frontend and backend.
@@ -58,7 +58,7 @@ To become a backend developer, you'll need to learn certain technologies. Here a
   
 - Ruby: Particularly popular for web development with its Ruby on Rails framework.
 
-2. **Databases:** These are where you store and retrieve data. Some common ones are:
+2. **Databases :** These are where you store and retrieve data. Some common ones are:
 
 - SQL databases (e.g., MySQL, PostgreSQL): Good for structured data.
 
@@ -67,4 +67,4 @@ To become a backend developer, you'll need to learn certain technologies. Here a
 
 ## Summary 
 
-Overall, the backend is responsible for the functionality and logic of a website or web application, while the frontend is responsible for the user interface and presentation layer that users interact with. Together, the frontend and backend work in tandem to deliver a seamless and functional web experience.
+In Frontend and Backend development 
